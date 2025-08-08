@@ -1,6 +1,6 @@
 # Project Title
 
-Stock Price Time Series Generation using GAN
+Stock Market Trend Prediction
 
 # Description
 
